@@ -1,5 +1,4 @@
 # Acorn's Flower
-https://flowerview.itch.io/acorn-flower
-
-# Github
-These are the archived versions of Acorn's Flower
+Acorn's Flower is a RPG Maker game
+It is still in development
+https://flowerview.itch.io/acorn-flower/
